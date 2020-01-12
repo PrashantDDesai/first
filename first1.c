@@ -1,5 +1,5 @@
 #include<stdio.h>
-int mystrcmp(connst *char, const *char)
+int mystrcmp(connst char*, const char*)
 void main()
 {
   char str1[100],str2[100];
